@@ -15,3 +15,5 @@
 [8,11,12,16,21,21]
 
 O(nlogn)
+
+https://app.patika.dev/yeksin
